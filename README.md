@@ -1,6 +1,4 @@
-# python_datascience
-
-Getting Started with Matplotlib
+# Getting Started with Matplotlib
 
 #Install
 sudo pip install matplotlib
